@@ -22,3 +22,10 @@ nginx:1.24.0
 
 tomcat:9.0
 tomcat:latest
+
+#这里，3是RabbitMQ的主版本号，management标签表示这个镜像包含了RabbitMQ的管理插件，允许你通过Web界面管理RabbitMQ
+rabbitmq:3-management
+rabbitmq:3
+
+confluentinc/cp-kafka:5.5.3
+confluentinc/cp-kafka:latest
