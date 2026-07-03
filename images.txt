@@ -1,7 +1,8 @@
 
 
 wurstmeister/zookeeper:latest
-wurstmeister/zookeeper:3.8.0
+apache/zookeeper:3.8.0
+apache/zookeeper:3.9.2
 
 # MongoDB
 mongo:4.4
