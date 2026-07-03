@@ -5,7 +5,6 @@ mysql:5.7.44
 mysql:8.0
 mysql:8.0.36
 mysql:8.0.40
-mysql:5.7-alpine
 mysql:8.0-alpine
 mariadb:10.5
 mariadb:10.6
@@ -268,4 +267,3 @@ vulhub/nginx:1.19.0
 # XXE SSRF 通用靶场
 vulhub/xxe:1.0
 vulhub/ssrf:1.0
-
