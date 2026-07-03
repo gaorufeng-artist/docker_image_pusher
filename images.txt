@@ -8,7 +8,6 @@ mysql:8.0.40
 mariadb:10.5
 mariadb:10.6
 mariadb:10.11
-mariadb:10.6-alpine
 percona/percona-server:5.7
 percona/percona-server:8.0
 
