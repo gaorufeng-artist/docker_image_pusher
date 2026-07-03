@@ -23,7 +23,9 @@ redis:7.2.5
 redis:5.0-alpine
 redis:6.2-alpine
 redis:7.2-alpine
-redis/redis-stack:7.2.0
+redis/redis-stack:7.2.0-v10
+redis/redis-stack:7.2.0-v9
+redis/redis-stack:7.2.0-v6
 redisson/redisson:3.23.5
 redisson/redisson:3.27.0
 
