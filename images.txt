@@ -1,15 +1,7 @@
 
 
-# Kafka
-confluentinc/cp-kafka:5.5.3
-confluentinc/cp-kafka:latest
-confluentinc/cp-zookeeper:5.5.3
-confluentinc/cp-kafka:6.2.15
-confluentinc/cp-kafka:7.3.6
-confluentinc/cp-kafka:7.5.3
-confluentinc/cp-schema-registry:7.3.6
-wurstmeister/kafka:2.13-2.8.1
-wurstmeister/zookeeper:3.4.6
+wurstmeister/zookeeper:latest
+wurstmeister/zookeeper:3.8.0
 
 # MongoDB
 mongo:4.4
