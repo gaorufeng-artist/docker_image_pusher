@@ -164,11 +164,6 @@ vulhub/spring-cloud-gateway:3.1.0
 vulhub/struts2:2.3.30
 vulhub/struts2:s2-067
 
-# Elasticsearch 漏洞
-vulhub/elasticsearch:5.6.12
-vulhub/elasticsearch:6.8.0
-vulhub/elasticsearch:7.6.1
-
 # Redis 漏洞环境
 vulhub/redis:4.0.14
 vulhub/redis:5.0.7
