@@ -7,12 +7,7 @@ registry:2.8
 
 # ===================== Vulhub 渗透靶场（含你指定镜像） =====================
 # ThinkPHP
-vulhub/thinkphp:2.1
-vulhub/thinkphp:3.2.3
-vulhub/thinkphp:5.0.10
-vulhub/thinkphp:5.0.23
-vulhub/thinkphp:5.1.29
-vulhub/thinkphp:6.0.12
+vulhub/thinkphp:5.0.20
 
 # Shiro
 vulhub/shiro:1.0.0
