@@ -124,10 +124,6 @@ xuxueli/xxl-job-admin:2.3.1
 xuxueli/xxl-job-admin:2.4.0
 xuxueli/xxl-job-admin:2.4.1
 
-# Spring Cloud Gateway
-springcloud/spring-cloud-gateway:3.1.5
-springcloud/spring-cloud-gateway:4.1.0
-
 # 监控链路
 apache/skywalking-oap-server:9.4.0
 apache/skywalking-ui:9.4.0
