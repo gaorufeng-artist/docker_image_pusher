@@ -1,12 +1,7 @@
 
 
 # Spring 漏洞
-vulhub/spring:4.1.4
-vulhub/spring:4.3.20
-vulhub/spring:5.2.0
-vulhub/spring-cloud-gateway:2.2.5
-vulhub/spring-cloud-function:3.1.6
-vulhub/spring4shell:0.1
+vulhub/spring-cloud-gateway:3.1.0
 
 # Struts2
 vulhub/struts2:2.3.20
