@@ -1,22 +1,6 @@
 
-gitlab/gitlab-ce:16.8.0-ce.0
-gitlab/gitlab-ce:16.8.10-ce.0
-jenkins/jenkins:2.401-jdk17
-docker:26-dind
-registry:2.8
-
-# ===================== Vulhub 渗透靶场（含你指定镜像） =====================
-# ThinkPHP
-vulhub/thinkphp:5.0.20
-
 # Shiro
-vulhub/shiro:1.0.0
 vulhub/shiro:1.2.4
-vulhub/shiro:1.4.2
-vulhub/shiro:1.5.3
-vulhub/shiro:1.6.0
-vulhub/shiro:1.7.1
-vulhub/shiro:1.8.0
 
 # Fastjson
 vulhub/fastjson:1.2.24
