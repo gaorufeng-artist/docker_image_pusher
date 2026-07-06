@@ -2,7 +2,7 @@
 
 # Struts2
 vulhub/struts2:2.3.28
-vulhub/struts2:2.5.12
+vulhub/struts2:2.5.20
 vulhub/struts2:2.5.26
 
 # Weblogic
