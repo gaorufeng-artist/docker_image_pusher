@@ -157,11 +157,6 @@ vulhub/thinkphp:5.0.20
 # Shiro
 vulhub/shiro:1.2.4
 
-# Log4j2
-vulhub/log4j:2.14.0
-vulhub/log4j:2.15.0
-vulhub/log4j:2.16.0
-
 # Spring 漏洞
 vulhub/spring:4.1.4
 vulhub/spring:4.3.20
