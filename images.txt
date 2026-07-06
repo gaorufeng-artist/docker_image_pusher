@@ -1,9 +1,5 @@
 
 
-# MongoDB
-vulhub/mongo:3.4
-vulhub/mongo:4.0
-
 # RabbitMQ
 vulhub/rabbitmq:3.7.8
 vulhub/rabbitmq:3.9.11
