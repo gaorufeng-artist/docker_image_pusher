@@ -1,17 +1,5 @@
 
 
-# Struts2
-vulhub/struts2:2.3.30
-vulhub/struts2:s2-067
-
-# Redis 漏洞环境
-vulhub/redis:4.0.14
-vulhub/redis:5.0.7
-
-# MySQL
-vulhub/mysql:5.7
-vulhub/mysql:8.0
-
 # MongoDB
 vulhub/mongo:3.4
 vulhub/mongo:4.0
