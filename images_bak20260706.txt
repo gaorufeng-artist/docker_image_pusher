@@ -167,7 +167,3 @@ vulhub/struts2:s2-067
 # Redis 漏洞环境
 vulhub/redis:4.0.14
 vulhub/redis:5.0.7
-
-# XXE SSRF 通用靶场
-vulhub/xxe:1.0
-vulhub/ssrf:1.0
