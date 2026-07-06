@@ -162,24 +162,8 @@ vulhub/spring-cloud-gateway:3.1.0
 
 # Struts2
 vulhub/struts2:2.3.28
-vulhub/struts2:2.5.20
-vulhub/struts2:2.5.26
-
-# Weblogic
-vulhub/weblogic:10.3.6
-vulhub/weblogic:12.1.3
-vulhub/weblogic:12.2.1
-vulhub/weblogic:12.2.2
-
-# Tomcat 漏洞环境
-vulhub/tomcat:7.0.84
-vulhub/tomcat:8.5.32
-vulhub/tomcat:9.0.30
-
-# Nacos 漏洞靶场
-vulhub/nacos:1.4.1
-vulhub/nacos:2.0.0
-vulhub/nacos:2.1.0
+vulhub/struts2:2.5.12
+vulhub/struts2:2.5.26  
 
 # Elasticsearch 漏洞
 vulhub/elasticsearch:5.6.12
@@ -203,33 +187,9 @@ vulhub/mongo:4.0
 vulhub/rabbitmq:3.7.8
 vulhub/rabbitmq:3.9.11
 
-# Dubbo
-vulhub/dubbo:2.7.0
-vulhub/dubbo:2.7.15
-
-# JBoss
-vulhub/jboss:4.2.0
-vulhub/jboss:7.0.0
-
-# ActiveMQ
-vulhub/activemq:5.11.1
-vulhub/activemq:5.15.10
-
 # Jenkins
 vulhub/jenkins:2.101
 vulhub/jenkins:2.300
-
-# Solr
-vulhub/solr:5.5.2
-vulhub/solr:8.8.1
-
-# ShardingSphere
-vulhub/shardingsphere:4.1.1
-
-# PHP框架
-vulhub/yii:2.0.15
-vulhub/laravel:5.8.22
-vulhub/laravel:8.40.0
 
 # Nginx 解析漏洞
 vulhub/nginx:1.19.0
