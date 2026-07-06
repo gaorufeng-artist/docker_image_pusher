@@ -1,9 +1,8 @@
 
 
 # Struts2
-vulhub/struts2:2.3.28
-vulhub/struts2:2.5.12
-vulhub/struts2:2.5.26  
+vulhub/struts2:2.3.30
+vulhub/struts2:s2-067
 
 # Elasticsearch 漏洞
 vulhub/elasticsearch:5.6.12
