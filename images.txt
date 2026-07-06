@@ -1,9 +1,5 @@
 
 
-# RabbitMQ
-vulhub/rabbitmq:3.7.8
-vulhub/rabbitmq:3.9.11
-
 # Jenkins
 vulhub/jenkins:2.101
 vulhub/jenkins:2.300
