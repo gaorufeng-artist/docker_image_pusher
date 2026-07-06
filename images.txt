@@ -1,9 +1,4 @@
 
-
-# Jenkins
-vulhub/jenkins:2.101
-vulhub/jenkins:2.300
-
 # Nginx 解析漏洞
 vulhub/nginx:1.19.0
 
