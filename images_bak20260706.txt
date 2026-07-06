@@ -168,10 +168,6 @@ vulhub/struts2:s2-067
 vulhub/redis:4.0.14
 vulhub/redis:5.0.7
 
-# Jenkins
-vulhub/jenkins:2.101
-vulhub/jenkins:2.300
-
 # Nginx 解析漏洞
 vulhub/nginx:1.19.0
 
