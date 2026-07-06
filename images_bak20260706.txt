@@ -88,7 +88,6 @@ mongo:6.0
 mongo:6.0.18
 mongo:7.0
 mongo:7.0.12
-mongo:6.0-alpine
 
 # Nginx / OpenResty
 nginx:latest
