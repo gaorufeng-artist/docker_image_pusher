@@ -155,13 +155,7 @@ registry:2.8
 vulhub/thinkphp:5.0.20
 
 # Shiro
-vulhub/shiro:1.0.0
 vulhub/shiro:1.2.4
-vulhub/shiro:1.4.2
-vulhub/shiro:1.5.3
-vulhub/shiro:1.6.0
-vulhub/shiro:1.7.1
-vulhub/shiro:1.8.0
 
 # Fastjson
 vulhub/fastjson:1.2.24
