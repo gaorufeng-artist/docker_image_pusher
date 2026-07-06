@@ -167,7 +167,6 @@ vulhub/struts2:s2-067
 # Redis 漏洞环境
 vulhub/redis:4.0.14
 vulhub/redis:5.0.7
-vulhub/redis:6.0.6
 
 # MySQL
 vulhub/mysql:5.7
