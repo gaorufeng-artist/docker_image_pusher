@@ -1,6 +1,4 @@
 
-# Nginx 解析漏洞
-vulhub/nginx:1.19.0
 
 # XXE SSRF 通用靶场
 vulhub/xxe:1.0
