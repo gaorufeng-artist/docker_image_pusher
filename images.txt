@@ -1,23 +1,4 @@
 
-tomcat:10.1-jdk17-temurin
-eclipse-temurin:8-jre-alpine
-eclipse-temurin:17-jre-alpine
-eclipse-temurin:21-jre-alpine
-
-# Seata 分布式事务
-seataio/seata-server:1.5.2
-seataio/seata-server:1.6.1
-seataio/seata-server:1.7.1
-seataio/seata-server:1.8.0
-
-# XXL-JOB 定时任务
-xuxueli/xxl-job-admin:2.3.1
-xuxueli/xxl-job-admin:2.4.0
-xuxueli/xxl-job-admin:2.4.1
-
-# Spring Cloud Gateway
-springcloud/spring-cloud-gateway:3.1.5
-springcloud/spring-cloud-gateway:4.1.0
 
 # 监控链路
 apache/skywalking-oap-server:9.4.0
